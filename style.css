@@ -1,0 +1,19 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	background-color: white;
+	color: black;
+	margin:0;
+	}
+div.header_wrap{
+	background: url(images/header_backgr.jpg) repeat-x;
+	height:96px;
+	}
+a.logo {
+    background: url(images/Bekey_logo.jpg) no-repeat;
+	width: 90px;
+	height:86px;
+	position:absolute;
+	left:129px;
+	top:10px;
+	}
