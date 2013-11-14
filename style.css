@@ -12,7 +12,7 @@ div.header_wrap{
 a.logo {
     background: url(images/Bekey_logo.jpg) no-repeat;
 	width: 90px;
-	height:86px;
+	height:86px; /* htyu */
 	position:absolute;
 	left:129px;
 	top:10px;
